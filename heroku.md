@@ -34,7 +34,11 @@ git push heroku master
 heroku open will open the app in the browser
 your app is deployed
 
-now with oshop app
+You do have the ability to run locally becaue you don't always want to push without testing broken code.
+npm run dev will still work but also you have the ability to run heroku local
+heroku local
+
+NOW WITH OSHOP APP
 
 connect database
 dashboard -> resources -> mlabs mongodb -> sign up with credit but will be a sandbox so free
