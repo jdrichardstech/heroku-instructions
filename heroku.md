@@ -1,5 +1,12 @@
 sign up for a heroku account
 
+brew install heroku/brew/heroku
+
+heroku login
+heroku: Press any key to open up the browser to login or q to exit
+› Warning: If browser does not open, visit
+› https://cli-auth.heroku.com/auth/browser/***
+
 Heroku
 
 install heroku
@@ -34,3 +41,7 @@ dashboard -> resources -> mlabs mongodb -> sign up with credit but will be a san
 
 remember to create the CONFIG variables and explain
 show the database
+
+list of commands
+
+https://devcenter.heroku.com/articles/heroku-cli-commands
