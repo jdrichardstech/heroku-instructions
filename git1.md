@@ -42,6 +42,13 @@ $ git add feature.txt
 $ git commit -m "New feature complete."
 The new feature is complete, we can go back to the master branch.
 
+Delete a branch on github:
+-- On GitHub, navigate to the main page of the repository.
+-- Above the list of files, click NUMBER branches.
+-- Scroll to the branch that you want to delete, then click .
+
+You will still need to delete it from your computer though.
+
 \$ git checkout master
 Now, if we open our project in the file browser, we'll notice that feature.txt has disappeared. That's because we are back in the master branch, and here feature.txt was never created. To bring it in, we need to git merge the two branches together, applying the changes done in amazing_new_feature to the main version of the project.
 
