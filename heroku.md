@@ -46,6 +46,11 @@ dashboard -> resources -> mlabs mongodb -> sign up with credit but will be a san
 remember to create the CONFIG variables and explain
 show the database
 
+destroy app in command line
+heroku apps:destroy
+or
+heroku apps:destroy --confirm <name of app>
+
 list of commands
 
 https://devcenter.heroku.com/articles/heroku-cli-commands

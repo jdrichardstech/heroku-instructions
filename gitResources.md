@@ -10,7 +10,8 @@ https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting
 https://www.atlassian.com/git/tutorials/undoing-changes/git-revert
 
 great rebase
-https://www.atlassian.com/git/tutorials/comparing-workflows#centralized-workflow
+https://www.atlassian.com/git/tutorials/merging-vs-rebasing
 
 git workflows
 https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow
+https://www.atlassian.com/git/tutorials/comparing-workflows#centralized-workflow
